@@ -1,0 +1,21 @@
+{
+  "name": "purescript-signal-aff",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^2.4.0",
+    "purescript-signal": "^8.0.1",
+    "purescript-eff": "^2.0.0",
+    "purescript-aff": "^2.0.3",
+    "purescript-dom": "^3.5.1",
+    "purescript-js-timers": "^2.0.0"
+  },
+  "devDependencies": {
+    "purescript-console": "^2.0.0",
+    "purescript-psci-support": "^2.0.0"
+  }
+}
