@@ -1,5 +1,10 @@
 {
   "name": "purescript-signal-aff",
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrisdotcode/purescript-signal-aff.git"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
